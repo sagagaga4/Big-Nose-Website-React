@@ -1,0 +1,21 @@
+.app {
+  margin: 0 auto;
+  width: 100vw;
+  height: 100vh;
+  z-index: -1;
+  overflow-x: hidden;
+  background: linear-gradient(transparent, rgb(255, 255, 255));
+  background-color: rgb(13, 43, 68);
+}
+
+.h1 {
+  font-family: "Saira Stencil One", cursive;
+  letter-spacing: 5px;
+  font-size: 51px;
+  text-align: center;
+  color: rgba(255, 255, 255, 0.842);
+}
+#page-wrap {
+  width: 100vw;
+  margin: 0 auto;
+}
